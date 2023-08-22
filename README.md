@@ -1,6 +1,6 @@
 # soma
 
-A new Flutter project.
+Este projeto faz a soma de dois numeros e os exibe na tela.
 
 ## Getting Started
 
